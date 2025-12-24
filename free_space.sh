@@ -23,3 +23,5 @@ echo "Or use the model you already have (llama3.2:latest) which works great!"
 
 
 
+
+
